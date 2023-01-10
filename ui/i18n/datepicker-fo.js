@@ -20,9 +20,9 @@ datepicker.regional.fo = {
 	prevText: "Fyrra",
 	nextText: "Næsta",
 	currentText: "Í dag",
-	monthNames: [ "Januar", "Februar", "Mars", "Apríl", "Mei", "Juni",
+	monthNames: [ "Januar", "Februar", "Mars", "Apríl", "Mai", "Juni",
 	"Juli", "August", "September", "Oktober", "November", "Desember" ],
-	monthNamesShort: [ "Jan", "Feb", "Mar", "Apr", "Mei", "Jun",
+	monthNamesShort: [ "Jan", "Feb", "Mar", "Apr", "Mai", "Jun",
 	"Jul", "Aug", "Sep", "Okt", "Nov", "Des" ],
 	dayNames: [
 		"Sunnudagur",
@@ -31,7 +31,7 @@ datepicker.regional.fo = {
 		"Mikudagur",
 		"Hósdagur",
 		"Fríggjadagur",
-		"Leyardagur"
+		"Leygardagur"
 	],
 	dayNamesShort: [ "Sun", "Mán", "Týs", "Mik", "Hós", "Frí", "Ley" ],
 	dayNamesMin: [ "Su", "Má", "Tý", "Mi", "Hó", "Fr", "Le" ],
